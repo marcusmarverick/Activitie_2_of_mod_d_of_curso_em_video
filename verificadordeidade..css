@@ -1,0 +1,24 @@
+body{ /* Corpo e fundo da página*/
+    background-color: rgb(7, 145, 238); 
+    font: normal 15px Arial;
+}
+
+header{ /* cabeçalho da página*/
+    color:aliceblue;
+    text-align: center;
+}
+
+section{ /* */
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0.363);
+}
+
+footer{ /* */
+    color:aliceblue;
+    text-align: center;
+    font-style: italic;
+}

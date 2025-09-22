@@ -1,15 +1,15 @@
 body{ /* Corpo e fundo da página*/
-    background-color: rgb(7, 145, 238); 
+    background-color: rgb(70, 142, 236); 
     font: normal 15px Arial;
 }
 
 header{ /* cabeçalho da página*/
-    color:aliceblue;
+    color:white;
     text-align: center;
 }
 
 section{ /* */
-    background-color: aliceblue;
+    background-color:white;
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -18,7 +18,8 @@ section{ /* */
 }
 
 footer{ /* */
-    color:aliceblue;
+    color:white;
     text-align: center;
     font-style: italic;
 }
+
